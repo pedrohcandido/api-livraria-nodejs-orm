@@ -11,7 +11,7 @@ API que permite cadastar livros, autores, clientes, vendas, informações comple
 * [Sequelize](https://sequelize.org/docs/v6/) - ORM SQL
 * [MongoDB](https://www.mongodb.com/docs/) - Banco de Dados NOSQL
 * [Mongoose](https://mongoosejs.com/docs/) - ORM NoSQL
-* [Winston](https://mongoosejs.com/docs/) - Biblioteca de logs NodeJS
+* [Winston](https://github.com/winstonjs/winston/tree/2.x) - Biblioteca de logs NodeJS
 
 ## ✒️ Autores
 
