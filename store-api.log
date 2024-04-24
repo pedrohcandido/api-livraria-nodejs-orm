@@ -1,0 +1,312 @@
+2021-10-05T01:18:32.363Z [store-api] info GET /clientes
+2021-10-05T01:20:33.859Z [store-api] info GET /clientes
+2021-10-05T01:20:57.492Z [store-api] info GET /clientes
+2021-10-05T01:24:08.294Z [store-api] info GET /cliente
+2021-10-05T01:24:13.221Z [store-api] info GET /clientes
+2021-10-05T01:24:22.212Z [store-api] info GET /cliente
+2021-10-05T01:24:54.698Z [store-api] error POST  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:25:13.699Z [store-api] info POST /cliente - {"clienteId":6,"nome":"testeeeeeeeeeeee","email":"teste@teste","senha":"123123","telefone":"33333333333","endereco":"Rua xxxxxxxx"}
+2021-10-05T01:25:21.573Z [store-api] error POST  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:25:36.072Z [store-api] info POST /cliente - {"clienteId":7,"nome":"testeeeeeeeeeeee222222222222222222","email":"teste@teste2222222222222222222","senha":"321312","telefone":"44444444444444","endereco":"Rua ZZZZZZZZZZZZZ"}
+2021-10-05T01:25:41.105Z [store-api] info GET /clientes
+2021-10-05T01:26:24.963Z [store-api] info DELETE /cliente
+2021-10-05T01:26:30.878Z [store-api] info GET /clientes
+2021-10-05T01:27:11.361Z [store-api] info GET /clientes
+2021-10-05T01:28:38.114Z [store-api] info GET /clientes
+2021-10-05T01:29:03.951Z [store-api] info GET /clientes
+2021-10-05T01:46:41.085Z [store-api] info GET /cliente
+2021-10-05T01:49:12.904Z [store-api] info GET /cliente
+2021-10-05T01:53:06.529Z [store-api] error POST  - Validation error
+2021-10-05T01:53:18.894Z [store-api] error POST  - Validation error
+2021-10-05T01:53:31.845Z [store-api] error POST  - Validation error
+2021-10-05T01:53:53.591Z [store-api] info GET /cliente
+2021-10-05T01:55:31.079Z [store-api] info POST /cliente - {"clienteId":8,"nome":"testeeeeeeeeeeee4444444444444444444","email":"teste@teste66666666666666666666","senha":"arasdfasdfasdfasdfasdf","telefone":"999999999999999999","endereco":"Rua YYYYYYYYYYYYYYYYYYYYYY"}
+2021-10-05T01:56:04.988Z [store-api] error PUT  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:56:35.181Z [store-api] error PUT  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:56:51.380Z [store-api] error PUT  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:56:58.715Z [store-api] error PUT  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:57:15.525Z [store-api] error PUT  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:57:25.263Z [store-api] error PUT  - Id, Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:57:56.550Z [store-api] error PUT  - Id, Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:58:02.744Z [store-api] error PUT  - Id, Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:58:03.701Z [store-api] error PUT  - Id, Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:58:05.570Z [store-api] error PUT  - Id, Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:58:08.618Z [store-api] info GET /cliente
+2021-10-05T01:58:15.480Z [store-api] error PUT  - Id, Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T01:58:48.531Z [store-api] info PUT /cliente - {"clienteId":6,"nome":"testeeeeeeeeeeee4444444444444444444","email":"teste@teste66666666666666666666","senha":"arasdfasdfasdfasdfasdf","telefone":"999999999999999999","endereco":"Rua YYYYYYYYYYYYYYYYYYYYYY"}
+2021-10-05T01:58:51.891Z [store-api] info GET /cliente
+2021-10-05T22:48:02.379Z [store-api] info GET /autores
+2021-10-05T22:48:32.790Z [store-api] info GET /autor
+2021-10-05T22:49:30.354Z [store-api] error POST  - Nome, E-mail, Senha, Telefone e Endereço são obrigatórios.
+2021-10-05T22:49:42.173Z [store-api] info POST /autor - {"autorId":4,"nome":"testeeeeeeeeeeee222222222222222222","email":"teste@teste2222222222222222222","telefone":"44444444444444"}
+2021-10-05T22:49:44.996Z [store-api] info GET /autores
+2021-10-05T22:50:15.003Z [store-api] info DELETE /autor
+2021-10-05T22:50:17.385Z [store-api] info GET /autores
+2021-10-05T22:51:10.811Z [store-api] error PUT  - Id, Nome, E-mail, Telefone e Endereço são obrigatórios.
+2021-10-05T22:51:31.773Z [store-api] info GET /autores
+2021-10-05T22:51:50.160Z [store-api] info PUT /autor - {"autorId":3,"nome":"testeeeeeeeeeeee4444444444444444444","email":"teste@teste66666666666666666666","telefone":"999999999999999999"}
+2021-10-05T22:51:57.924Z [store-api] info GET /autores
+2021-10-05T22:57:54.838Z [store-api] info GET /autores
+2021-10-05T22:58:07.332Z [store-api] error GET  - password authentication failed for user "postgres"
+2021-10-05T22:58:07.532Z [store-api] error GET  - password authentication failed for user "postgres"
+2021-10-05T23:23:06.319Z [store-api] error GET  - LivroRepository.buscaLivroes is not a function
+2021-10-05T23:24:08.017Z [store-api] error GET  - column "telefone" does not exist
+2021-10-05T23:25:25.729Z [store-api] info GET /livros
+2021-10-05T23:25:44.039Z [store-api] info GET /livro
+2021-10-05T23:27:12.978Z [store-api] info POST /livro - {"livroId":7,"nome":"testeeeeeeeeeeee222222222222222222","valor":"44444444444444","estoque":5,"autorId":1}
+2021-10-05T23:27:19.168Z [store-api] info GET /livros
+2021-10-05T23:27:51.964Z [store-api] info DELETE /livro
+2021-10-05T23:27:54.797Z [store-api] info GET /livros
+2021-10-05T23:29:24.952Z [store-api] info PUT /livro - {"livroId":6,"nome":"123123","valor":"66666","estoque":10,"autorId":2}
+2021-10-05T23:29:27.742Z [store-api] info GET /livros
+2021-10-05T23:41:38.296Z [store-api] info GET /vendas
+2021-10-05T23:41:47.612Z [store-api] info GET /venda
+2021-10-05T23:43:04.129Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:43:34.837Z [store-api] info GET /clientes
+2021-10-05T23:44:29.335Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:44:42.908Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:46:26.336Z [store-api] error POST  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:46:36.484Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:46:51.128Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:46:56.159Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:46:56.368Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:46:57.229Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:46:57.815Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:47:12.953Z [store-api] error POST  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:47:17.105Z [store-api] error POST  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:47:25.690Z [store-api] error POST  - Unexpected token ' in JSON at position 57
+2021-10-05T23:47:37.393Z [store-api] error POST  - null value in column "cliente_id" violates not-null constraint
+2021-10-05T23:48:38.897Z [store-api] info GET /vendas
+2021-10-05T23:48:39.071Z [store-api] info GET /vendas
+2021-10-05T23:49:32.152Z [store-api] info GET /vendas
+2021-10-05T23:49:42.986Z [store-api] info POST /venda - {"vendaId":26,"valor":"222222","data":"2021-10-05","clienteId":2,"livroId":1}
+2021-10-05T23:49:52.492Z [store-api] info GET /vendas
+2021-10-05T23:50:11.314Z [store-api] info POST /venda - {"vendaId":27,"valor":"222222","data":"2021-10-05","clienteId":2,"livroId":1}
+2021-10-05T23:50:13.293Z [store-api] info GET /vendas
+2021-10-05T23:50:46.561Z [store-api] info DELETE /venda
+2021-10-05T23:50:50.796Z [store-api] info GET /vendas
+2021-10-05T23:52:31.439Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:11.054Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:22.986Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:23.238Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:23.862Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:35.105Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:36.290Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:36.756Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:37.026Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:53:37.260Z [store-api] error PUT  - valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:54:08.878Z [store-api] error PUT  - id, valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:54:10.025Z [store-api] error PUT  - id, valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:54:11.508Z [store-api] error PUT  - id, valor, data, código cliente e código do livro são obrigatórios.
+2021-10-05T23:54:44.571Z [store-api] info PUT /venda - {"vendaId":27,"valor":"99999999999","data":"2021-10-05","livroId":2,"clienteId":3}
+2021-10-05T23:54:48.899Z [store-api] info GET /vendas
+2021-10-08T01:00:36.012Z [store-api] error POST  - LivroInfoRepository.cadastraLivroInfo is not a function
+2021-10-08T01:02:22.812Z [store-api] error POST  - LivroInfoRepository.cadastraLivroInfo is not a function
+2021-10-08T01:04:15.169Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"livro teste","paginas":200,"editora":"editora teste","avaliacoes":[]}
+2021-10-08T14:08:59.715Z [store-api] info PUT /livro/info - {"livroId":1,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:12:49.024Z [store-api] info PUT /livro/info - {"livroId":1,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:18:16.819Z [store-api] error PUT  - Livro ID é obrigatório.
+2021-10-08T14:18:20.027Z [store-api] info PUT /livro/info - {"livroId":1,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:19:13.873Z [store-api] info POST /livro/info - {"livroId":2,"descricao":"livro teste2","paginas":200,"editora":"editora teste","avaliacoes":[]}
+2021-10-08T14:23:14.976Z [store-api] info PUT /livro/info - {"livroId":1,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:31:27.930Z [store-api] info PUT /livro/info - {"livroId":1,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:31:38.389Z [store-api] info PUT /livro/info - {"livroId":2,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:31:50.958Z [store-api] info PUT /livro/info - {"livroId":"2","descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:41:21.795Z [store-api] info PUT /livro/info - {"livroId":"2","descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacao":[]}
+2021-10-08T14:46:36.723Z [store-api] info PUT /livro/info - {"livroId":1,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacao":[]}
+2021-10-08T14:47:37.656Z [store-api] info PUT /livro/info - {"livroId":1,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T14:48:03.872Z [store-api] info PUT /livro/info - {"livroId":6,"descricao":"livro teste22222222","paginas":300,"editora":"editora teste2222222","avaliacoes":[]}
+2021-10-08T15:04:31.291Z [store-api] info POST /livro/info - {"livroId":2,"descricao":"livro teste2","paginas":200,"editora":"editora teste","avaliacoes":[]}
+2021-10-08T15:09:47.849Z [store-api] info PUT /livro/info - {"livroId":6,"descricao":"livro teste3333333333333","paginas":300,"editora":"editora teste33333333333","avaliacoes":[]}
+2021-10-08T15:10:45.075Z [store-api] info POST /livro/info - {"livroId":6,"descricao":"livro teste123123123","paginas":200,"editora":"editora teste12312313","avaliacoes":[]}
+2021-10-08T17:05:40.570Z [store-api] info PUT /livro/info - {"livroId":6,"descricao":"livro XXXXXXXXXXXXXXXXXX","paginas":300,"editora":"editora XXXXXXXXXXXXXXXX","avaliacoes":[]}
+2021-10-08T17:06:16.657Z [store-api] info GET /livros
+2021-10-08T17:06:57.951Z [store-api] info POST /livro/info - {"livroId":6,"descricao":"livro teste123123123","paginas":200,"editora":"editora teste12312313","avaliacoes":[]}
+2021-10-08T17:07:28.195Z [store-api] info PUT /livro/info - {"livroId":6,"descricao":"livro ZZZZZZZZZZZZZZZZZ","paginas":300,"editora":"editora XXXXXXXXXXXXXXXX","avaliacoes":[]}
+2021-10-08T17:08:48.360Z [store-api] info POST /livro/info - {"livroId":5,"descricao":"livro teste123123123","paginas":200,"editora":"editora teste12312313","avaliacoes":[]}
+2021-10-08T17:09:41.964Z [store-api] info PUT /livro/info - {"livroId":5,"descricao":"livro ZZZZZZZZZZZZZZZZZ","paginas":300,"editora":"editora XXXXXXXXXXXXXXXX","avaliacoes":[]}
+2021-10-08T17:17:01.563Z [store-api] error DELETE  - invalid input syntax for type integer: "info"
+2021-10-08T17:17:07.145Z [store-api] error DELETE  - livroId is not defined
+2021-10-08T17:20:39.345Z [store-api] info DELETE /livro/info
+2021-10-08T17:23:24.412Z [store-api] error POST  - Livro ID e Avaliação são obrigatórios.
+2021-10-08T18:13:42.140Z [store-api] error POST  - Livro ID e Avaliação são obrigatórios.
+2021-10-08T18:14:41.730Z [store-api] error POST  - Cannot read property 'push' of undefined
+2021-10-08T20:27:27.879Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T20:31:36.445Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T20:31:48.451Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:29:25.813Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:29:36.363Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:30:29.139Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:30:32.424Z [store-api] info GET /livros
+2021-10-08T23:30:37.529Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:32:53.661Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:33:10.623Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:33:13.153Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:35:01.554Z [store-api] info GET /livro
+2021-10-08T23:35:03.971Z [store-api] info GET /livro
+2021-10-08T23:35:09.702Z [store-api] info GET /livros
+2021-10-08T23:42:26.576Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:22.406Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:24.187Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:24.882Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:25.486Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:26.018Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:26.519Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:30.066Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:43:49.093Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:44:19.200Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:44:35.959Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:44:38.975Z [store-api] info GET /livros
+2021-10-08T23:45:31.809Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:47:20.950Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:47:32.115Z [store-api] info POST /livro/info - {"livroId":4,"descricao":"livro teste123123123","paginas":200,"editora":"editora teste12312313","avaliacoes":[]}
+2021-10-08T23:47:58.416Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:48:21.802Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:48:26.005Z [store-api] info GET /livros
+2021-10-08T23:48:27.519Z [store-api] info GET /livros
+2021-10-08T23:48:46.184Z [store-api] info GET /livros
+2021-10-08T23:49:17.139Z [store-api] info GET /livros
+2021-10-08T23:50:02.677Z [store-api] info GET /livros
+2021-10-08T23:50:12.658Z [store-api] info GET /livros
+2021-10-08T23:50:19.584Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:54:12.207Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:54:18.381Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-08T23:54:48.649Z [store-api] error GET  - invalid input syntax for type integer: "info2"
+2021-10-08T23:54:52.509Z [store-api] error GET  - invalid input syntax for type integer: "in"
+2021-10-08T23:55:02.110Z [store-api] info GET /livros
+2021-10-08T23:55:08.196Z [store-api] info GET /livros
+2021-10-08T23:55:11.968Z [store-api] error GET  - invalid input syntax for type integer: "ASDas"
+2021-10-08T23:56:49.725Z [store-api] error GET  - invalid input syntax for type integer: "info2"
+2021-10-09T00:10:53.526Z [store-api] info GET /livro
+2021-10-09T00:11:09.828Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:12:06.852Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:12:31.510Z [store-api] error GET  - invalid input syntax for type integer: "teste"
+2021-10-09T00:13:02.275Z [store-api] error GET  - invalid input syntax for type integer: "teste"
+2021-10-09T00:14:43.594Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:48.088Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:50.046Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:50.896Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:51.467Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:51.787Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:52.055Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:52.324Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:52.602Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:52.876Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:53.156Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:53.447Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:53.694Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:53.965Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:54.233Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:54.486Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:54.749Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:55.008Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:55.523Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:55.761Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:56.025Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:56.279Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:56.527Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:56.780Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:57.031Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:57.281Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:57.515Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:57.762Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:58.005Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:58.250Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:58.474Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:58.698Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:58.933Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T00:16:59.203Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T01:08:30.778Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T01:08:38.984Z [store-api] info GET /livros
+2021-10-09T01:08:42.449Z [store-api] info GET /livro/info
+2021-10-09T01:10:13.519Z [store-api] info GET /livros
+2021-10-09T01:10:17.307Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T01:10:28.942Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T01:10:37.209Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T01:27:06.721Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T01:27:41.418Z [store-api] error GET  - invalid input syntax for type integer: "info"
+2021-10-09T01:27:50.421Z [store-api] info GET /livro/info
+2021-10-09T01:28:30.147Z [store-api] info GET /livro
+2021-10-09T01:39:11.217Z [store-api] info GET /livro
+2021-10-09T01:39:39.122Z [store-api] info GET /livro
+2021-10-09T01:40:42.614Z [store-api] info GET /livro
+2021-10-09T01:43:49.701Z [store-api] info GET /livro
+2021-10-09T01:45:22.645Z [store-api] info GET /livro
+2021-10-09T01:45:27.008Z [store-api] info GET /livro
+2021-10-09T01:48:28.465Z [store-api] info GET /livro
+2021-10-09T01:48:47.503Z [store-api] info GET /livro
+2021-10-09T01:49:18.102Z [store-api] info GET /livro
+2021-10-09T01:49:37.126Z [store-api] info GET /livro
+2021-10-09T01:52:51.459Z [store-api] info GET /livros
+2021-10-09T01:52:55.412Z [store-api] info GET /livro
+2021-10-09T01:52:58.272Z [store-api] info GET /livro
+2021-10-09T01:53:00.877Z [store-api] info GET /livro
+2021-10-09T01:53:04.674Z [store-api] info GET /livro
+2021-10-09T01:54:57.693Z [store-api] error POST  - Livro ID e Avaliação são obrigatórios.
+2021-10-09T01:55:18.633Z [store-api] error POST  - Cannot read property 'push' of undefined
+2021-10-09T01:57:39.086Z [store-api] info POST /livro/avaliacao
+2021-10-09T01:59:38.988Z [store-api] info POST /livro/avaliacao
+2021-10-09T02:01:40.954Z [store-api] info POST /livro/avaliacao
+2021-10-09T02:02:12.621Z [store-api] info POST /livro/avaliacao
+2021-10-09T02:03:36.017Z [store-api] info POST /livro/avaliacao
+2021-10-09T02:16:50.425Z [store-api] info GET /vendas
+2021-10-09T02:17:44.232Z [store-api] info POST /venda - {"vendaId":16,"valor":"60","data":"2000-01-01","clienteId":2,"livroId":2}
+2021-10-09T02:23:26.798Z [store-api] info POST /venda - {"vendaId":17,"valor":"130","data":"2000-01-01","clienteId":2,"livroId":4}
+2021-10-09T02:24:36.781Z [store-api] info GET /cliente
+2021-10-09T02:25:11.974Z [store-api] info GET /livro
+2021-10-09T02:28:04.910Z [store-api] info GET /livro
+2021-10-09T02:28:23.101Z [store-api] info GET /livro
+2024-04-17T01:49:22.006Z [store-api] error POST  - relação "clientes" não existe
+2024-04-17T01:50:11.129Z [store-api] error POST  - relação "clientes" não existe
+2024-04-17T01:50:15.878Z [store-api] error POST  - relação "clientes" não existe
+2024-04-17T01:50:30.349Z [store-api] error POST  - relação "clientes" não existe
+2024-04-17T01:51:41.303Z [store-api] error POST  - coluna "cliente_id" da relação "clientes" não existe
+2024-04-18T00:43:28.581Z [store-api] info POST /cliente - {"clienteId":1,"nome":"pedro","email":"pedro@com","senha":"123","telefone":"34993217251","endereco":"burgos"}
+2024-04-18T00:52:33.292Z [store-api] info POST /autor - {"autorId":1,"nome":"autor","email":"autor@com","telefone":"34993217251"}
+2024-04-18T00:52:46.351Z [store-api] error POST  - coluna "autore_autor_id" não existe
+2024-04-18T00:55:04.163Z [store-api] error POST  - Nome, valor, estoque e código do autor são obrigatórios.
+2024-04-18T00:55:12.905Z [store-api] error POST  - Nome, valor, estoque e código do autor são obrigatórios.
+2024-04-18T00:56:15.842Z [store-api] error POST  - coluna "autore_autor_id" não existe
+2024-04-18T00:58:31.563Z [store-api] error POST  - coluna "autore_autor_id" não existe
+2024-04-18T00:58:44.254Z [store-api] error POST  - coluna "autore_autor_id" não existe
+2024-04-18T01:00:01.000Z [store-api] info POST /livro - {"livroId":1,"nome":"zangado","valor":123,"estoque":5,"autorId":1}
+2024-04-19T00:34:21.450Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"zangado123","paginas":"999","editora":"zangs123","avaliacoes":[]}
+2024-04-19T00:37:21.869Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"zangado123","paginas":"999","editora":"zangs123","avaliacoes":[{"nome":"pedro","nota":10,"avaliacao":"perfeito"}]}
+2024-04-19T00:52:17.139Z [store-api] info GET /livro
+2024-04-19T00:56:14.035Z [store-api] info GET /livro
+2024-04-19T00:57:07.853Z [store-api] info GET /livro
+2024-04-19T00:57:18.952Z [store-api] error GET  - sintaxe de entrada é inválida para tipo integer: "info"
+2024-04-19T00:58:01.203Z [store-api] info GET /livro
+2024-04-19T01:02:08.948Z [store-api] info GET /livro
+2024-04-19T01:11:40.898Z [store-api] info GET /livro
+2024-04-19T01:14:14.720Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[{"nome":"joao","nota":10,"avaliacao":"perfect"}]}
+2024-04-19T01:30:15.527Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[]}
+2024-04-19T01:30:46.489Z [store-api] info POST /livro/avaliacao
+2024-04-19T01:32:58.817Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[]}
+2024-04-19T01:33:06.032Z [store-api] info POST /livro/avaliacao
+2024-04-19T01:40:24.361Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[]}
+2024-04-19T01:40:52.719Z [store-api] info POST /livro/avaliacao
+2024-04-19T01:47:35.967Z [store-api] info POST /livro/avaliacao
+2024-04-19T01:50:38.234Z [store-api] info POST /livro/avaliacao
+2024-04-19T01:51:49.016Z [store-api] info POST /livro/avaliacao
+2024-04-19T01:58:30.690Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:00:03.370Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:00:27.057Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:00:41.780Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:01:03.845Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:01:43.731Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:02:08.952Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:03:10.191Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:05:59.721Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:07:18.420Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[]}
+2024-04-19T02:07:20.951Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:07:47.872Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[]}
+2024-04-19T02:07:49.731Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:08:06.129Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:08:20.133Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:12:52.539Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[]}
+2024-04-19T02:12:53.991Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:13:25.106Z [store-api] info POST /livro/info - {"livroId":1,"descricao":"asdfasdf","paginas":999,"editora":"ghjkghjkghjk","avaliacoes":[]}
+2024-04-19T02:13:26.440Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:13:35.323Z [store-api] info POST /livro/avaliacao
+2024-04-19T02:13:45.959Z [store-api] info POST /livro/avaliacao
